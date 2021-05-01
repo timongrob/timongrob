@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @timongrob
 - 👀 I’m interested in having fun
 - 🌱 I’m currently learning the hard way
-- 💞️ I’m looking to collaborate on medical informatics
+- 💞️ I’m looking to collaborate on medical informatics, quantified self and personal effectiveness
 
 <!---
 timongrob/timongrob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
