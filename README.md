@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @timongrob
-- 👀 I’m interested in anything that can simplify my life
+- 👀 I’m interested in having fun
 - 🌱 I’m currently learning the hard way
 - 💞️ I’m looking to collaborate on medical informatics
 
